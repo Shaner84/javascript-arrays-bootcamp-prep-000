@@ -4,6 +4,6 @@ function addElementToBeginningOfArray(){
     return moreChocolateBars
 }
 function destructivelyAddElementToBeginningOfArray(){
-  chocolateBars[1] = "foo"
+  const chocolateBars[1] = "foo"
 }
 
